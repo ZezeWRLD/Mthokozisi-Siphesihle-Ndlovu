@@ -37,7 +37,7 @@
 
 ## 📄 CV  
 
-👉 [Download My CV](#) (you can link to a hosted PDF or repo file here)  
+👉 [Download My CV](https://github.com/ZezeWRLD/Mthokozisi-Siphesihle-Ndlovu/blob/1ce5836615c15be777e4cf1c163ee9cd26bfc1c1/Mthokozisi_Siphesihle_Ndlovu_-_3rd_Year_Software_Engineering_Student__Enthusiastic_about_Full-Stack_Development_%26_Automation%20(1).pdf) 
 
 ---
 
